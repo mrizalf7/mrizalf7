@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrizalf7
-- 👀 I’m interested in Data Science,Android Development,Web Development
-- 🌱 I’m currently learning Data Science and Android Development
+- 👀 I’m interested in Data Science,Machine Learning,Android Development,Web Development
+- 🌱 I’m currently learning Data Science,Machine Learning and Android Development
 
 <!---
 mrizalf7/mrizalf7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
