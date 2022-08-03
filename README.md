@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrizalf7&show_icons=true&locale=en&theme=dracula" />
   
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrizalf7&show_icons=true&locale=en&theme=gotham" />
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrizalf7&show_icons=true&locale=en&theme=dracula" />
 
 
 
