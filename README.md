@@ -12,7 +12,7 @@
 <p align='center'> <img src='https://github-readme-stats.vercel.app/api/wakatime?username=mrizalf7&show_icons=true&theme=dracula'/></p>
                                                                                                                                  
 <!-- [![mrizalf7's most used languages] -->
-<p align='center'> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mrizalf7&show_icons=true&&theme=dracula&layout=compact&&locale=en'/> </p>
+<p align='center'> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mrizalf7&show_icons=true&theme=dracula&layout=compact&locale=en'/> </p>
 <!-- <p align='center'> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mrizalf7&show_icons=true&count_private=true&theme=dracula&layout=compact'/> </p> -->
 
 <!-- [![mrizalf7's github summary]] -->
