@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Android, Data Science, Machine Learning, and Deep Learning -->
 
 
-## <p align='center'> Stats 💻 </p>
+### <p align='center'> Stats 💻 </p>
 
 <!-- [![mrizalf7's GitHub stats] -->
 <p align='center'> <img src='https://github-readme-stats.vercel.app/api?username=mrizalf7&show_icons=true&theme=dracula'/></p>
