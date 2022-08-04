@@ -10,7 +10,7 @@
 [![mrizalf7's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrizalf7&show_icons=true&count_private=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![mrizalf7's github summary]( ) ]  -->
 <!-- <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrizalf7&show_icons=true&locale=en&theme=dracula"/></p> -->
-<p align='center'>(https://github-readme-streak-stats.herokuapp.com/?user=mrizalf7&show_icons=true&locale=en&theme=dracula)</p>
+(https://github-readme-streak-stats.herokuapp.com/?user=mrizalf7&show_icons=true&locale=en&theme=dracula)
 
 
 
